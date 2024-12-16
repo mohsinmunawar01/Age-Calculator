@@ -1,2 +1,2 @@
-# Age-Calculator
-This is my 1st Project In Web Development with HTML,CSS,JAVASCRIPT
+#CodeAlpha_Age_Calculator
+HTML,CSS,JAVASCRIPT
